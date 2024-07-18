@@ -1,6 +1,6 @@
 .click {
     background-color: rgb(0, 0, 0);
-    color: hsl(0.000, 0.00, 1.00);
+    color: hsl(0, 0%, 100%);
 }
 
 .no-click {
